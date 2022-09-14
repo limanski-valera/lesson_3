@@ -1,0 +1,34 @@
+* {
+    color: rgb(21, 2, 42);
+}
+h1 {
+    color: indigo;
+}
+.foreword-text span {
+    color: red;
+}
+.title {
+    color: brown;
+}
+#section-ingridients > * {
+    color: rgb(7, 67, 67);
+}
+p.green {
+    color: green;
+}
+.green.text {
+    color: rgb(8, 40, 8);
+}
+.citrus,
+.granate {
+    color: rgb(153, 78, 8);
+}
+.title ~ p {
+    color: rgb(92, 201, 165);
+}
+.title + p {
+    color: rgb(131, 191, 171);
+}
+#garnish {
+    color: orangered;
+}
